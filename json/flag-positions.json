@@ -1,0 +1,189 @@
+{
+  "flagTopPanel": [
+    {
+      "active": 1,
+      "checked": 1,
+      "title": {
+        "pl": "Panel",
+        "en": "Panel",
+        "lv": "Panelis",
+        "es": "Panel",
+        "de": "Panel",
+        "fr": "Panneau"
+      },
+      "help": {
+        "pl": "Górny frontowy panel",
+        "en": "Top front panel",
+        "lv": "Augšējais priekšējais panelis",
+        "es": "Panel frontal superior",
+        "de": "Oben Vorderseite",
+        "fr": "Panneau avant supérieur"
+      },
+      "icon": "flag.svg",
+      "default_colors": 0,
+      "specific_colors": ["#FFFFFF"],
+      "start_color": "#dbdbdb",
+      "align": {
+        "left": {
+          "active": 1,
+          "current": 1,
+          "name": {
+            "pl": "Do lewej",
+            "en": "Align left",
+            "lv": "Pa kreisi",
+            "es": "Alinear a la izquierda",
+            "de": "Links ausrichten",
+            "fr": "Aligner à gauche"
+          },
+          "svg": "left.svg",
+          "anchor": "start",
+          "x": 190,
+          "y": 50,
+          "width": 30,
+          "height": 24,
+          "transform": "skewX(7) scale(1, 0.8) rotate(5)"
+        },
+        "center": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Wyśrodkowanie",
+            "en": "Center",
+            "lv": "Centrs",
+            "es": "Centrar",
+            "de": "Zentrieren",
+            "fr": "Centre"
+          },
+          "svg": "center.svg",
+          "anchor": "middle",
+          "x": 345,
+          "y": 52,
+          "width": 28,
+          "height": 23,
+          "transform": "skewX(7) scale(1, 0.8) rotate(5)"
+        },
+        "right": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Do prawej",
+            "en": "Align right",
+            "lv": "Pa labi",
+            "es": "Alinear a la derecha",
+            "de": "Rechts ausrichten",
+            "fr": "Aligner à droite"
+          },
+          "svg": "right.svg",
+          "anchor": "end",
+          "x": 480,
+          "y": 55,
+          "width": 27,
+          "height": 23,
+          "transform": "skewX(7) scale(1, 0.8) rotate(5)"
+        },
+        "grawer": {
+          "active": 0,
+          "current": 0,
+          "name": {
+            "pl": "Do prawej",
+            "en": "Align right",
+            "lv": "Pa labi",
+            "es": "Alinear a la derecha",
+            "de": "Rechts ausrichten",
+            "fr": "Aligner à droite"
+          },
+          "svg": "right.svg",
+          "anchor": "end",
+          "x": 36.65,
+          "y": 7.6,
+          "transform": "rotate(0) scale(1)"
+        }
+      }
+    }
+  ],
+  "flagTopDoor": [
+    {
+      "active": 1,
+      "checked": 0,
+      "title": {
+        "pl": "Drzwi",
+        "en": "Door",
+        "lv": "Durvis",
+        "es": "Puerta",
+        "de": "Tür",
+        "fr": "Porte"
+      },
+      "help": {
+        "pl": "Drzwi",
+        "en": "Door",
+        "lv": "Durvis",
+        "es": "Puerta",
+        "de": "Tür",
+        "fr": "Porte"
+      },
+      "icon": "flag.svg",
+      "default_colors": 0,
+      "specific_colors": ["#FFFFFF"],
+      "start_color": "#dbdbdb",
+      "align": {
+        "left": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Do lewej",
+            "en": "Align left",
+            "lv": "Pa kreisi",
+            "es": "Alinear a la izquierda",
+            "de": "Links ausrichten",
+            "fr": "Aligner à gauche"
+          },
+          "svg": "left.svg",
+          "anchor": "start",
+          "x": 190,
+          "y": 255,
+          "width": 30,
+          "height": 24,
+          "transform": "skewX(4.5) scale(1, 0.8) rotate(2.5)"
+        },
+        "center": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Wyśrodkowanie",
+            "en": "Center",
+            "lv": "Centrs",
+            "es": "Centrar",
+            "de": "Zentrieren",
+            "fr": "Centre"
+          },
+          "svg": "center.svg",
+          "anchor": "middle",
+          "x": 345,
+          "y": 255,
+          "width": 28,
+          "height": 23,
+          "transform": "skewX(2) scale(1, 0.8) rotate(2)"
+        },
+        "right": {
+          "active": 1,
+          "current": 0,
+          "name": {
+            "pl": "Do prawej",
+            "en": "Align right",
+            "lv": "Pa labi",
+            "es": "Alinear a la derecha",
+            "de": "Rechts ausrichten",
+            "fr": "Aligner à droite"
+          },
+          "svg": "right.svg",
+          "anchor": "end",
+          "x": 480,
+          "y": 255,
+          "width": 27,
+          "height": 23,
+          "transform": "skewX(1.5) scale(1, 0.8) rotate(1.5)"
+        }
+      }
+    }
+  ]
+}

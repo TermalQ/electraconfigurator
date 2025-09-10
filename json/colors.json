@@ -1,0 +1,1189 @@
+{
+  "colors": {
+    "category": {
+      "pl": "Kolory podstawowe",
+      "en": "Primary colors",
+      "lv": "Pamatkrāsas",
+      "es": "Colores primarios",
+      "de": "Primärfarben",
+      "fr": "Couleurs primaires"
+    },
+    "items": [
+      {
+        "active": 1,
+        "default": 1,
+        "name": {
+          "pl": "Black",
+          "en": "Black",
+          "lv": "Black",
+          "es": "Black",
+          "de": "Black",
+          "fr": "Black"
+        },
+        "price": {
+          "pl": 0,
+          "en": 0,
+          "lv": -1,
+          "es": 0,
+          "de": 0,
+          "fr": 0
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#1c1c1e",
+        "ral": "RAL 9005",
+        "filter": "mix-blend-mode: color"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Pure red",
+          "en": "Pure red",
+          "lv": "Pure red",
+          "es": "Pure red",
+          "de": "Pure red",
+          "fr": "Pure red"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#cc2c24",
+        "ral": "RAL 3028",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Carmine red",
+          "en": "Carmine red",
+          "lv": "Carmine red",
+          "es": "Carmine red",
+          "de": "Carmine red",
+          "fr": "Carmine red"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#9b2321",
+        "ral": "RAL 3002",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Wine red",
+          "en": "Wine red",
+          "lv": "Wine red",
+          "es": "Wine red",
+          "de": "Wine red",
+          "fr": "Wine red"
+
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#59191f",
+        "ral": "RAL 3005",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Light pink",
+          "en": "Light pink",
+          "lv": "Light pink",
+          "es": "Light pink",
+          "de": "Light pink",
+          "fr": "Light pink"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#d8a0a6",
+        "ral": "RAL 3015",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Heather violet",
+          "en": "Heather violet",
+          "lv": "Heather violet",
+          "es": "Heather violet",
+          "de": "Heather violet",
+          "fr": "Heather violet"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#c4618c",
+        "ral": "RAL 4003",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Telemagenta",
+          "en": "Telemagenta",
+          "lv": "Telemagenta",
+          "es": "Telemagenta",
+          "de": "Telemagenta",
+          "fr": "Telemagenta"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#bc4077",
+        "ral": "RAL 4010",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Bright red orange",
+          "en": "Bright red orange",
+          "lv": "Bright red orange",
+          "es": "Bright red orange",
+          "de": "Bright red orange",
+          "fr": "Bright red orange"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#ed6b21",
+        "ral": "RAL 2008",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Traffic orange",
+          "en": "Traffic orange",
+          "lv": "Traffic orange",
+          "es": "Traffic orange",
+          "de": "Traffic orange",
+          "fr": "Traffic orange"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#ea5b0c",
+        "ral": "RAL 2009",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Salmon orange",
+          "en": "Salmon orange",
+          "lv": "Salmon orange",
+          "es": "Salmon orange",
+          "de": "Salmon orange",
+          "fr": "Salmon orange"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#e46e56",
+        "ral": "RAL 2012",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Sulfur yellow",
+          "en": "Sulfur yellow",
+          "lv": "Sulfur yellow",
+          "es": "Sulfur yellow",
+          "de": "Sulfur yellow",
+          "fr": "Sulfur yellow"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#e0d200",
+        "ral": "RAL 1016",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Traffic yellow",
+          "en": "Traffic yellow",
+          "lv": "Traffic yellow",
+          "es": "Traffic yellow",
+          "de": "Traffic yellow",
+          "fr": "Traffic yellow"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#f4b600",
+        "ral": "RAL 1023",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Luminous green",
+          "en": "Luminous green",
+          "lv": "Luminous green",
+          "es": "Luminous green",
+          "de": "Luminous green",
+          "fr": "Luminous green"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#00ff00",
+        "ral": "RAL 6038",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Pastel green",
+          "en": "Pastel green",
+          "lv": "Pastel green",
+          "es": "Pastel green",
+          "de": "Pastel green",
+          "fr": "Pastel green"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#a8b78c",
+        "ral": "RAL 6019",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Leaf green",
+          "en": "Leaf green",
+          "lv": "Leaf green",
+          "es": "Leaf green",
+          "de": "Leaf green",
+          "fr": "Leaf green"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#276235",
+        "ral": "RAL 6002",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Olive green",
+          "en": "Olive green",
+          "lv": "Olive green",
+          "es": "Olive green",
+          "de": "Olive green",
+          "fr": "Olive green"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#424632",
+        "ral": "RAL 6003",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Light blue",
+          "en": "Light blue",
+          "lv": "Light blue",
+          "es": "Light blue",
+          "de": "Light blue",
+          "fr": "Light blue"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#2a6db0",
+        "ral": "RAL 5012",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Traffic blue",
+          "en": "Traffic blue",
+          "lv": "Traffic blue",
+          "es": "Traffic blue",
+          "de": "Traffic blue",
+          "fr": "Traffic blue"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#004b8d",
+        "ral": "RAL 5017",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Cobalt blue",
+          "en": "Cobalt blue",
+          "lv": "Cobalt blue",
+          "es": "Cobalt blue",
+          "de": "Cobalt blue",
+          "fr": "Cobalt blue"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#1f3057",
+        "ral": "RAL 5013",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Steel blue",
+          "en": "Steel blue",
+          "lv": "Steel blue",
+          "es": "Steel blue",
+          "de": "Steel blue",
+          "fr": "Steel blue"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#1a2d3b",
+        "ral": "RAL 5011",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Cobalt blue",
+          "en": "Cobalt blue",
+          "lv": "Cobalt blue",
+          "es": "Cobalt blue",
+          "de": "Cobalt blue",
+          "fr": "Cobalt blue"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#0e2767",
+        "ral": "RAL 5013",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Blue lilac",
+          "en": "Blue lilac",
+          "lv": "Blue lilac",
+          "es": "Blue lilac",
+          "de": "Blue lilac",
+          "fr": "Blue lilac"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#76689a",
+        "ral": "RAL 4005",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Signal violet",
+          "en": "Signal violet",
+          "lv": "Signal violet",
+          "es": "Signal violet",
+          "de": "Signal violet",
+          "fr": "Signal violet"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#924e7d",
+        "ral": "RAL 4008",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Purple",
+          "en": "Purple",
+          "lv": "Purple",
+          "es": "Purple",
+          "de": "Purple",
+          "fr": "Purple"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#800080",
+        "ral": "RAL 4006",
+        "filter": "mix-blend-mode: screen; opacity: .95;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Telegrey 4",
+          "en": "Telegrey 4",
+          "lv": "Telegrey 4",
+          "es": "Telegrey 4",
+          "de": "Telegrey 4",
+          "fr": "Telegrey 4"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#d0cfce",
+        "ral": "RAL 7047",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Window grey",
+          "en": "Window grey",
+          "lv": "Window grey",
+          "es": "Window grey",
+          "de": "Window grey",
+          "fr": "Window grey"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#9da3a6",
+        "ral": "RAL 7040",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Grey blue",
+          "en": "Grey blue",
+          "lv": "Grey blue",
+          "es": "Grey blue",
+          "de": "Grey blue",
+          "fr": "Grey blue"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#3f4c57",
+        "ral": "RAL 5008",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Steel grey",
+          "en": "Steel grey",
+          "lv": "Steel grey",
+          "es": "Steel grey",
+          "de": "Steel grey",
+          "fr": "Steel grey"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": 120,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#cccccc",
+        "ral": "RAL 9006",
+        "filter": "mix-blend-mode: color-dodge;opacity: .9"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Beige",
+          "en": "Beige",
+          "lv": "Beige",
+          "es": "Beige",
+          "de": "Beige",
+          "fr": "Beige"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#d0b084",
+        "ral": "RAL 1001",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Olive yellow",
+          "en": "Olive yellow",
+          "lv": "Olive yellow",
+          "es": "Olive yellow",
+          "de": "Olive yellow",
+          "fr": "Olive yellow"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#a28e6a",
+        "ral": "RAL 1020",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Grey beige",
+          "en": "Grey beige",
+          "lv": "Grey beige",
+          "es": "Grey beige",
+          "de": "Grey beige",
+          "fr": "Grey beige"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#9c8a7b",
+        "ral": "RAL 1019",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Chocolate brown",
+          "en": "Chocolate brown",
+          "lv": "Chocolate brown",
+          "es": "Chocolate brown",
+          "de": "Chocolate brown",
+          "fr": "Chocolate brown"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": { "pl": "", "en": "", "lv": "", "es": "", "de": "", "fr": "" },
+        "color": "#442f29",
+        "ral": "RAL 8017",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+
+
+      
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Srebrny",
+          "en": "Silver Metallic",
+          "lv": "Sudraba metāls",
+          "es": "Plateado",
+          "de": "Silber",
+          "fr": "Gris argenté"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#b1aeae",
+        "ral": "RAL 9006",
+        "filter": "mix-blend-mode: color"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Złoty",
+          "en": "Pearl gold",
+          "lv": "Zeltaina krāsa",
+          "es": "Dorado",
+          "de": "Perl-Gold",
+          "fr": "Or perlé"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": 120,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#bc9544",
+        "ral": "RAL 1036",
+        "filter": "mix-blend-mode: plus-lighter; opacity: .75;"
+      },
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Pomarańczowy",
+          "en": "Orange",
+          "lv": "Oranžs",
+          "es": "Naranja",
+          "de": "Orange",
+          "fr": "Orange"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#ff5415",
+        "ral": "RAL 2008",
+        "filter": "mix-blend-mode: screen; opacity: .95;"
+      },
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Bordowy",
+          "en": "Wine red",
+          "lv": "Burgundijas krāsa",
+          "es": "Rojo vino",
+          "de": "Weinrot",
+          "fr": "Bordeaux"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#5E2129",
+        "ral": "RAL 3005",
+        "filter": "mix-blend-mode: color"
+      },
+
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Zielony",
+          "en": "Green",
+          "lv": "Zaļš",
+          "es": "Verde",
+          "de": "Grün",
+          "fr": "Vert"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#00b51a",
+        "ral": "RAL 6038",
+        "filter": "mix-blend-mode: color-dodge"
+      },
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Koralowy",
+          "en": "Coral",
+          "lv": "Koraļs",
+          "es": "Coral",
+          "de": "Koralle",
+          "fr": "Corail"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#e95945",
+        "ral": "RAL 2012",
+        "filter": "mix-blend-mode: lighten; opacity: .95;"
+      },
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Brzoskwiniowy",
+          "en": "Peach",
+          "lv": "Persiku krāsa",
+          "es": "Durazno",
+          "de": "Pfirsich",
+          "fr": "Pêche"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#febe98",
+        "ral": "RAL 1001",
+        "filter": "mix-blend-mode: hard-light; opacity: .95; filter: saturate(1);"
+      },
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Morelowy",
+          "en": "Apricot",
+          "lv": "Aprikoku krāsa",
+          "es": "Albaricoque",
+          "de": "Aprikose",
+          "fr": "Abricot"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#e9967b",
+        "ral": "RAL 3012",
+        "filter": "mix-blend-mode: plus-lighter; opacity: .95; filter: saturate(1);"
+      }
+    ]
+  },
+  "brocate": {
+    "category": {
+      "pl": "Kolory z brokatem",
+      "en": "Glitter colors",
+      "lv": "Glitter krāsas",
+      "es": "Colores con purpurina",
+      "de": "Glitzerfarben",
+      "fr": "Couleurs pailletées"
+    },
+    "items": [
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Czarny z brokatem",
+          "en": "Glitter Black",
+          "lv": "Glitter melna krāsa",
+          "es": "Negro con purpurina",
+          "de": "Glitzer Schwarz",
+          "fr": "Noire pailletée"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#131516",
+        "ral": "RAL 9005",
+        "filter": "mix-blend-mode: color"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Różowy z brokatem",
+          "en": "Glitter Pink",
+          "lv": "Glitter rozā krāsa",
+          "es": "Rosa con purpurina",
+          "de": "Glitzer Rosa",
+          "fr": "Glitter Rose"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": 120,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#ae599f",
+        "ral": "RAL 520-M",
+        "filter": "mix-blend-mode: plus-lighter; opacity: .8"
+      }
+    ]
+  }
+}

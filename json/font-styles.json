@@ -1,0 +1,38 @@
+[
+  {
+    "name": {
+      "pl": "Pogrubienie",
+      "en": "Bold",
+      "lv": "Trekns",
+      "es": "Negrita",
+      "de": "Fett",
+      "fr": "Gras"
+    },
+    "style": "bold",
+    "svg": "bold.svg"
+  },
+  {
+    "name": {
+      "pl": "Kursywa",
+      "en": "Italic",
+      "lv": "Kursīvs",
+      "es": "Cursiva",
+      "de": "Kursiv",
+      "fr": "Italique"
+    },
+    "style": "italic",
+    "svg": "italic.svg"
+  },
+  {
+    "name": {
+      "pl": "Podkreślenie",
+      "en": "Underline",
+      "lv": "Pasvītrojums",
+      "es": "Subrayado",
+      "de": "Unterstrichen",
+      "fr": "Souligné"
+    },
+    "style": "underline",
+    "svg": "underline.svg"
+  }
+]

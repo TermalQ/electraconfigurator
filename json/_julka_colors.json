@@ -1,0 +1,398 @@
+{
+  "colors": {
+    "category": {
+      "pl": "Kolory podstawowe",
+      "en": "Primary colors",
+      "lv": "Pamatkrāsas",
+      "es": "Colores primarios",
+      "de": "Primärfarben",
+      "fr": "Couleurs primaires"
+    },
+    "items": [
+      {
+        "active": 1,
+        "default": 1,
+        "name": {
+          "pl": "Czarny",
+          "en": "Black",
+          "lv": "Melna",
+          "es": "Negro",
+          "de": "Schwarz",
+          "fr": "Noire"
+        },
+        "price": {
+          "pl": 0,
+          "en": 0,
+          "lv": -1,
+          "es": -1,
+          "de": 0,
+          "fr": 0
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#1c1c1e",
+        "ral": "RAL 9005",
+        "filter": "mix-blend-mode: color"
+      },
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Bordo",
+          "en": "Wine red",
+          "lv": "Burgundijas krāsa",
+          "es": "Rojo vino",
+          "de": "Weinrot",
+          "fr": "Bordeaux"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#380505",
+        "ral": "RAL 3005",
+        "filter": "mix-blend-mode: color"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Granatowy",
+          "en": "Cobalt blue",
+          "lv": "Kobalta zila",
+          "es": "Azul cobalto",
+          "de": "Kobaltblau",
+          "fr": "Bleu marine"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#0e2767",
+        "ral": "RAL 5013",
+        "filter": "mix-blend-mode: exclusion;opacity: .85;"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Stalowy",
+          "en": "Steel grey",
+          "lv": "Metāla krāsa",
+          "es": "Gris acero",
+          "de": "Stahlgrau",
+          "fr": "Gris acier"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#cccccc",
+        "ral": "RAL 9006",
+        "filter": "mix-blend-mode: color-dodge;opacity: .9"
+      },
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Srebrny",
+          "en": "Silver Metallic",
+          "lv": "Sudraba metāls",
+          "es": "Plateado",
+          "de": "Silber",
+          "fr": "Gris argenté"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#b1aeae",
+        "ral": "RAL 9006",
+        "filter": "mix-blend-mode: color"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Złoty",
+          "en": "Pearl gold",
+          "lv": "Zeltaina krāsa",
+          "es": "Dorado",
+          "de": "Perl-Gold",
+          "fr": "Or perlé"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#bc9544",
+        "ral": "RAL 1036",
+        "filter": "mix-blend-mode: plus-lighter; opacity: .75; filter: saturate(1);"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Pomarańczowy",
+          "en": "Orange",
+          "lv": "Oranžs",
+          "es": "Naranja",
+          "de": "Orange",
+          "fr": "Orange"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#ff5415",
+        "ral": "RAL 2008",
+        "filter": "mix-blend-mode: lighten; opacity: .95;"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Koralowy",
+          "en": "Coral",
+          "lv": "Koraļs",
+          "es": "Coral",
+          "de": "Koralle",
+          "fr": "Corail"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#e95945",
+        "ral": "RAL 2012",
+        "filter": "mix-blend-mode: lighten; opacity: .95;"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Brzoskwiniowy",
+          "en": "Peach",
+          "lv": "Persiku krāsa",
+          "es": "Durazno",
+          "de": "Pfirsich",
+          "fr": "Pêche"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#febe98",
+        "ral": "RAL 1001",
+        "filter": "mix-blend-mode: hard-light; opacity: .95; filter: saturate(1);"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Morelowy",
+          "en": "Apricot",
+          "lv": "Aprikoku krāsa",
+          "es": "Albaricoque",
+          "de": "Aprikose",
+          "fr": "Abricot"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#e9967b",
+        "ral": "RAL 3012",
+        "filter": "mix-blend-mode: plus-lighter; opacity: .95; filter: saturate(1);"
+      }
+    ]
+  },
+  "brocate": {
+    "category": {
+      "pl": "Kolory z brokatem",
+      "en": "Glitter colors",
+      "lv": "Glitter krāsas",
+      "es": "Colores con purpurina",
+      "de": "Glitzerfarben",
+      "fr": "Couleurs pailletées"
+    },
+    "items": [
+      {
+        "active": 0,
+        "default": 0,
+        "name": {
+          "pl": "Czarny z brokatem",
+          "en": "Glitter Black",
+          "lv": "Glitter melna krāsa",
+          "es": "Negro con purpurina",
+          "de": "Glitzer Schwarz",
+          "fr": "Noire pailletée"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#131516",
+        "ral": "RAL 9005",
+        "filter": "mix-blend-mode: color"
+      },
+      {
+        "active": 1,
+        "default": 0,
+        "name": {
+          "pl": "Różowy z brokatem",
+          "en": "Glitter Pink",
+          "lv": "Glitter rozā krāsa",
+          "es": "Rosa con purpurina",
+          "de": "Glitzer Rosa",
+          "fr": "Glitter Rose"
+        },
+        "price": {
+          "pl": 500,
+          "en": 120,
+          "lv": -1,
+          "es": -1,
+          "de": 120,
+          "fr": 120
+        },
+        "promo": {
+          "pl": "",
+          "en": "",
+          "lv": "",
+          "es": "",
+          "de": "",
+          "fr": ""
+        },
+        "color": "#ae599f",
+        "ral": "RAL 520-M",
+        "filter": "mix-blend-mode: plus-lighter; opacity: .8"
+      }
+    ]
+  }
+}
